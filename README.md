@@ -17,8 +17,8 @@
 
 <div align="center">
   
-  <img height="180em" src="https://githubstats.shinoyuki.cn/api?username=xiaoxiao-cvs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://githubstats.shinoyuki.cn/api/top-langs?username=xiaoxiao-cvs&layout=compact&theme=radical" />
+  <img height="180em" src="https://githubstats.shinoyuki.cn/api?username=xiaoxiao-cvs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1" />
+  <img height="180em" src="https://githubstats.shinoyuki.cn/api/top-langs?username=xiaoxiao-cvs&layout=compact&theme=radical&v=1" />
   
 ---
 
