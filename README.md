@@ -16,9 +16,15 @@
 ## GitHub 统计
 
 <div align="center">
-  
-  <img height="180em" src="https://githubstats.shinoyuki.cn/api?username=xiaoxiao-cvs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://githubstats.shinoyuki.cn/api/top-langs?username=xiaoxiao-cvs&layout=compact&theme=radical" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.shinoyuki.cn/api?username=xiaoxiao-cvs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://githubstats.shinoyuki.cn/api?username=xiaoxiao-cvs&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.shinoyuki.cn/api/top-langs?username=xiaoxiao-cvs&layout=compact&theme=radical" />
+    <img height="180em" src="https://githubstats.shinoyuki.cn/api/top-langs?username=xiaoxiao-cvs&layout=compact&theme=default" />
+  </picture>
   
 ---
 
