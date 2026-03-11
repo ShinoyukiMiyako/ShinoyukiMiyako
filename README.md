@@ -13,7 +13,7 @@
 - 目前开发重点：**[Convenient-access](https://github.com/xiaoxiao-cvs/Convenient-access)** & **[Aris-Sweeping](https://github.com/xiaoxiao-cvs/Aris-Sweeping)** & **[Mailauncher](https://github.com/xiaoxiao-cvs/mailauncher)**
 - 正在学习：**[Anime.js](https://animejs.com/)** & **[Rust](https://www.rust-lang.org/)** & **[React](https://reactjs.org/)**
 - 联系方式：**xiaoxiao-cvs@outlook.com**
-## GitHub 统计
+## GitHub Stats
 
 <div align="center">
 
