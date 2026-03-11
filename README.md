@@ -18,12 +18,22 @@
 <div align="center">
 
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak.shinoyuki.cn/?user=xiaoxiao-cvs&theme=radical" />
+    <img src="https://streak.shinoyuki.cn/?user=xiaoxiao-cvs&theme=default" />
+  </picture>
+
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.shinoyuki.cn/api?username=xiaoxiao-cvs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://githubstats.shinoyuki.cn/api?username=xiaoxiao-cvs&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.shinoyuki.cn/api/top-langs?username=xiaoxiao-cvs&layout=compact&theme=radical" />
     <img height="180em" src="https://githubstats.shinoyuki.cn/api/top-langs?username=xiaoxiao-cvs&layout=compact&theme=default" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity.shinoyuki.cn/graph?username=xiaoxiao-cvs&theme=react-dark" />
+    <img src="https://activity.shinoyuki.cn/graph?username=xiaoxiao-cvs&theme=github" />
   </picture>
   
 ---
