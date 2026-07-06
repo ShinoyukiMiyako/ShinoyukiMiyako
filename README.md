@@ -10,7 +10,7 @@
 
 我希望我们的代码正在让这个世界变得更加美好～
 
-- 目前开发重点：**[Convenient-access](https://github.com/xiaoxiao-cvs/Convenient-access)** & **[Aris-Sweeping](https://github.com/xiaoxiao-cvs/Aris-Sweeping)** & **[Mailauncher](https://github.com/xiaoxiao-cvs/mailauncher)**
+- 目前开发重点：**[Convenient-access](https://github.com/ShinoyukiMiyako/Convenient-access)** & **[Aris-Sweeping](https://github.com/ShinoyukiMiyako/Aris-Sweeping)** & **[Mailauncher](https://github.com/ShinoyukiMiyako/mailauncher)**
 - 正在学习：**[Anime.js](https://animejs.com/)** & **[Rust](https://www.rust-lang.org/)** & **[React](https://reactjs.org/)**
 - 联系方式：**xiaoxiao-cvs@outlook.com**
 ## GitHub Stats
@@ -19,21 +19,21 @@
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak.shinoyuki.cn/?user=xiaoxiao-cvs&theme=tokyonight" />
-    <img src="https://streak.shinoyuki.cn/?user=xiaoxiao-cvs&theme=tokyonight-duo" />
+    <img src="https://streak.shinoyuki.cn/?user=ShinoyukiMiyako&theme=tokyonight-duo" />
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.shinoyuki.cn/api?username=xiaoxiao-cvs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://githubstats.shinoyuki.cn/api?username=xiaoxiao-cvs&show_icons=true&theme=tokyonight-duo&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://githubstats.shinoyuki.cn/api?username=ShinoyukiMiyako&show_icons=true&theme=tokyonight-duo&include_all_commits=true&count_private=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.shinoyuki.cn/api/top-langs?username=xiaoxiao-cvs&layout=compact&theme=tokyonight" />
-    <img height="180em" src="https://githubstats.shinoyuki.cn/api/top-langs?username=xiaoxiao-cvs&layout=compact&theme=tokyonight-duo" />
+    <img height="180em" src="https://githubstats.shinoyuki.cn/api/top-langs?username=ShinoyukiMiyako&layout=compact&theme=tokyonight-duo" />
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://activity.shinoyuki.cn/graph?username=xiaoxiao-cvs&theme=tokyo-night" />
-    <img src="https://activity.shinoyuki.cn/graph?username=xiaoxiao-cvs&theme=github" />
+    <img src="https://activity.shinoyuki.cn/graph?username=ShinoyukiMiyako&theme=github" />
   </picture>
   
 ---
