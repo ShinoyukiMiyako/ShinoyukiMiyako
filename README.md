@@ -18,21 +18,21 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak.shinoyuki.cn/?user=xiaoxiao-cvs&theme=tokyonight" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak.shinoyuki.cn/?user=ShinoyukiMiyako&theme=tokyonight" />
     <img src="https://streak.shinoyuki.cn/?user=ShinoyukiMiyako&theme=tokyonight-duo" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.shinoyuki.cn/api?username=xiaoxiao-cvs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.shinoyuki.cn/api?username=ShinoyukiMiyako&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://githubstats.shinoyuki.cn/api?username=ShinoyukiMiyako&show_icons=true&theme=tokyonight-duo&include_all_commits=true&count_private=true" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.shinoyuki.cn/api/top-langs?username=xiaoxiao-cvs&layout=compact&theme=tokyonight" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubstats.shinoyuki.cn/api/top-langs?username=ShinoyukiMiyako&layout=compact&theme=tokyonight" />
     <img height="180em" src="https://githubstats.shinoyuki.cn/api/top-langs?username=ShinoyukiMiyako&layout=compact&theme=tokyonight-duo" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://activity.shinoyuki.cn/graph?username=xiaoxiao-cvs&theme=tokyo-night" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity.shinoyuki.cn/graph?username=ShinoyukiMiyako&theme=tokyo-night" />
     <img src="https://activity.shinoyuki.cn/graph?username=ShinoyukiMiyako&theme=github" />
   </picture>
   
